@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to Henry's Profile Page :)
+Hi there 👋
+My name is __Henry__. I am a senior at Maple High School in ON, Canada.
+I am interested in competitive math and programming, quantum mechanics, and chemistry.
+
+
+
 
 <!--
 **HenryHaiyang/HenryHaiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
