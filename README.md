@@ -76,4 +76,5 @@ while (true) {
     buildProjects();
     solveProblems();
     improve();
-}
+}<img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/67c29551-6706-4f6b-90ab-71ddd485ed1e" />
+
