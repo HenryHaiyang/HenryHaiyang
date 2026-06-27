@@ -1,19 +1,20 @@
 # Hi, I'm Henry Guo 👋
 
-I'm a high school student in Canada interested in **computer science, engineering, AI, mathematics, and building useful projects**.  
+I'm a high school student in Canada interested in **🤖AI, 📐Mathematics, ⌨️CP, 🧪Chemistry, and ⚛️Quantum Mechanics**!  
+
 I enjoy turning ideas into real programs, especially projects that combine logic, problem-solving, and practical design.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 High school student focused on STEM, coding, and engineering
-- 💻 Currently building projects in **Java**
-- 🧠 Interested in **AI, algorithms, software engineering, and problem solving**
+- 🎓 School math club president and tutor
+- 💻 Currently learning new programming languages and building interesting projects
+- 🧠 
 - 🏆 Math contest participant and STEM learner
-- 🌱 Always improving through projects, competitions, and self-learning
-- 🔭 Long-term goal: study engineering/computer science and work on advanced AI systems
-
+- 🌱 Always improving through self-learning
+- 🔭 Long-term goal: study and work on Machine Learning/Robotics
+- જ⁀➴ Narrow one archer
 ---
 
 ## 🛠️ Tech Stack
